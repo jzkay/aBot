@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "jzkay",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cubing": "^0.47.1",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.1"
+  }
 }
